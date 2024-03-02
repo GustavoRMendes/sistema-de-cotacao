@@ -12,6 +12,9 @@ export default function MainPage() {
       <p className="p-main">
       O módulo de cotações online permite a tomada de preços simultânea a um número maior de fornecedores, obtendo-se melhores preços e condições de compra.
       </p>
+      <button className='contato btn'>
+        Experimente grátis
+      </button>
     </main>
   )
 }
