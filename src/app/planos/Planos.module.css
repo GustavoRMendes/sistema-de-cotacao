@@ -1,0 +1,22 @@
+.h1Planos {
+  font-weight: 100;
+  padding: 4rem 0rem 2rem 0rem;
+}
+
+.main {
+  background-color: #e2e2e2;
+  box-shadow: 3px 3px 8px black;
+  height: 100vh;
+  text-align: center;
+}
+
+.planesButtons {
+  padding: .8rem;
+  background-color: #144272;
+  color: white;
+  border: none;
+  margin: 0rem .5rem;
+  border-radius: .1rem;
+  width: 8rem;
+  cursor: pointer;
+}

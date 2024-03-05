@@ -19,7 +19,7 @@ export default function IntegracoesPage() {
       <Image 
         src='/mercadolivre.png' 
         alt='Mercado Livre' 
-        width={600}
+        width={700}
         height={500} /> 
       </div>
     </div>

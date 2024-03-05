@@ -1,15 +1,17 @@
 import HeaderPage from '@/components/header'
 import React from 'react'
-
+import styles from './Planos.module.css'
 export default function PlanosPage () {
   return (
     <>
       <HeaderPage />
-      <h1>Nossos planos com desconto</h1>
-      <button className='contato'>Bronze</button>
-      <button className='contato'>Prata</button>
-      <button className='contato'>Ouro</button>
-      <button className='contato'>Platina</button>
+      <main className={styles.main}>
+        <h1 className={styles.h1Planos}>Nossos planos com desconto</h1>
+        <button className={styles.planesButtons}>Anual</button>
+        <button className={styles.planesButtons}>Semestral</button>
+        <button className={styles.planesButtons}>Mensal</button>
+      </main>
+      
     </>
   )
 }
