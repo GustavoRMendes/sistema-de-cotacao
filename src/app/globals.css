@@ -66,3 +66,18 @@ body {
   margin-top: 1rem;
   margin-left: 2rem;
 }
+
+.form{
+  padding: 1rem;
+  margin: auto;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.login{
+  text-align: center;
+}
+input{
+  padding: .5rem;
+  margin: .5rem 0;
+}
