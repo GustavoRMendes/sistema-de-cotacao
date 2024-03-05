@@ -6,8 +6,11 @@ export default function SolucoesPage() {
   return (
     <>
     <HeaderPage/>
-    <h3 className={styles.solucoes}>Experimente grátis por 10 dias!</h3>
+    <main className={styles.main}>
+    <h2 className={styles.solucoes}>Experimente grátis por 10 dias!</h2>
     <FormPage/>
+    </main>
+    
     </>
   )
 }

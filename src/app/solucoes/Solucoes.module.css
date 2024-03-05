@@ -1,4 +1,10 @@
-.solucoes{
+.solucoes {
   font-weight: 100;
   text-align: center;
+  padding: 3rem 0rem 0rem 0rem;
+}
+
+.main {
+  background-color: #e2e2e2;
+  height: 100vh;
 }
