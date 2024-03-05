@@ -3,8 +3,16 @@
   margin: 0rem 0rem 0rem 4rem;
   padding-top: 5rem;
   color: #051d3b;
+  font-size: 3rem;
+}
+.pParceiro{
+  margin: 0rem 0rem 0rem 4rem;
+  font-size: 1rem;
+  text-align: justify;
 }
 .main {
   background-color: #e2e2e2;
   height: 100vh;
+  display: flex;
+  gap: 15rem;
 }
