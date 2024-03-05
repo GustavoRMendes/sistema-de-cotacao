@@ -10,10 +10,10 @@ body {
 }
 .head {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   justify-content: space-around;
   align-items: center;
-  padding: 1rem 0rem;
+  padding: 0rem 0rem;
 }
 .h1-main{
   color: rgb(255, 255, 255);

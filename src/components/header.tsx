@@ -10,10 +10,10 @@ export default function HeaderPage () {
         <div>
           <Link href='/'>
             <Image
-              src='/sistemas.png'
+              src='/logo.png'
               alt='foto'
-              width={200}
-              height={50}
+              width={150}
+              height={150}
             />
           </Link>
         </div>
