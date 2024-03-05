@@ -1,0 +1,15 @@
+.integracoes_h1{
+  font-weight: 400;
+  font-size: 3rem;
+  margin: 1rem 4rem;
+  color: rgb(7, 7, 84);
+}
+
+.pMercado{
+  text-align: justify;
+  margin-left: 4rem;
+}
+
+.container {
+  display: flex;
+}
