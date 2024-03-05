@@ -1,11 +1,11 @@
 import HeaderPage from '@/components/header'
 import React from 'react'
 
-export default function PlanosPage() {
+export default function PlanosPage () {
   return (
-    <div>
-      <HeaderPage/>
-      <code>Planos</code>
-    </div>
+    <>
+      <HeaderPage />
+      <h1>Nossos planos com desconto</h1>
+    </>
   )
 }
