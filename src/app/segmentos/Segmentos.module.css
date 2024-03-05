@@ -1,4 +1,16 @@
-.main{
-  background-color: #091D33;
+.main {
+  background-color: #e2e2e2;
   height: 100vh;
+  display: flex;
+  gap: 4rem;
+}
+
+.h1Segmentos {
+  font-weight: 100;
+  font-size: 3rem;
+  color: rgb(5, 29, 59);
+  margin: 3rem 0rem 0rem 2rem;
+}
+.pSegmentos {
+  margin: 3rem 0rem 0rem 2rem;
 }
