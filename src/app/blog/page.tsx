@@ -33,7 +33,7 @@ export default function BlogPage () {
           </Link>
             <p className={styles.paragraph}>Marketing</p>
             <h3 className={styles.titleCard}>9 Dicas Marketing Digital para sua <br />Loja Virtual</h3>
-            <a href="#" className={styles.link} >Ler agora ➡️</a>
+            <a href="https://www.mlabs.com.br/blog/marketing-digital-para-ecommerce" className={styles.link} target='_blank' >Ler agora ➡️</a>
         </div>
         <div>
           <Link href='/'>
