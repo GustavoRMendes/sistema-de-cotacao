@@ -12,7 +12,7 @@ export default function IntegracoesPage() {
       integrado ao <br/> Mercado Livre</h1>
       <p className={styles.pMercado}>O SIS é um Sistema de Gestão integrado ao Mercado <br/> Livre que otimiza a gestão da sua empresa e agiliza o <br/> controle de vendas!</p>
       <button style={{marginLeft:'4rem',marginTop:'2rem'}}className='contato'>
-        Faça agora o teste de 10 dias grátis!
+       EXPERIMENTE GRÁTIS
       </button>
       </div>
       <div>
