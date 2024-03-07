@@ -25,7 +25,7 @@ export default function BlogPage () {
           </Link>
           <p className={styles.paragraph}>Empreededorismo</p>
           <h3 className={styles.titleCard}>Como calcular o preço de venda?</h3>
-          <a href='#' className={styles.link}>Ler agora ➡️ </a>
+          <a href='https://www.sebrae-sc.com.br/blog/como-calcular-o-preco-de-um-produto' className={styles.link} target='_blank'>Ler agora ➡️ </a>
         </div>
         <div>
           <Link href='/'>
