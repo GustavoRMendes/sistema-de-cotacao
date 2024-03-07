@@ -28,7 +28,7 @@ export default function HeaderPage () {
           </nav>
         </div>
         <div>
-          <button className='contato'>Experimentar grátis</button>
+          <button className='contato'>EXPERIMENTE GRÁTIS</button>
         </div>
       </header>
     </>
