@@ -41,7 +41,7 @@ export default function BlogPage () {
           </Link>
             <p className={styles.paragraph}>E-commerce</p>
             <h3 className={styles.titleCard}>Como vender na Shopee: comece <br /> do zero</h3>
-            <a href="https://seller.shopee.com.br/edu/article/13388/como-comeco-a-vender-na-shopee" className={styles.link}>Ler agora ➡️</a>
+            <a href="https://seller.shopee.com.br/edu/article/13388/como-comeco-a-vender-na-shopee" className={styles.link} target='_blank'>Ler agora ➡️</a>
         </div>
       </main>
     
