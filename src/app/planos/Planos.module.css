@@ -4,19 +4,21 @@
 }
 
 .main {
-  background-color: #e2e2e2;
-  box-shadow: 3px 3px 8px black;
+  background-color: #e2e2e2ab;
   height: 100vh;
   text-align: center;
 }
 
 .planesButtons {
-  padding: .8rem;
+  padding: 10px 20px;
   background-color: #144272;
   color: white;
   border: none;
-  margin: 0rem .5rem;
-  border-radius: .1rem;
+  margin: 0rem 0.5rem;
+  border-radius: 2px;
   width: 8rem;
   cursor: pointer;
+  font-weight: 600;
+  font-size: 12px;
+  font-family: sans-serif;
 }

@@ -7,9 +7,9 @@ export default function PlanosPage () {
       <HeaderPage />
       <main className={styles.main}>
         <h1 className={styles.h1Planos}>Nossos planos com desconto</h1>
-        <button className={styles.planesButtons}>Anual</button>
-        <button className={styles.planesButtons}>Semestral</button>
-        <button className={styles.planesButtons}>Mensal</button>
+        <button className={styles.planesButtons}>ANUAL</button>
+        <button className={styles.planesButtons}>SEMESTRAL</button>
+        <button className={styles.planesButtons}>MENSAL</button>
       </main>
       
     </>
