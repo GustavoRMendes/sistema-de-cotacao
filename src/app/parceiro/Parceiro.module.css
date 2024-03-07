@@ -1,18 +1,33 @@
 .h1Parceiro {
-  font-weight: 100;
-  margin: 0rem 0rem 0rem 4rem;
-  padding-top: 5rem;
+  font-weight: 500;
+  margin: 0rem 0rem 3rem 4rem;
+  padding-top: 3rem;
   color: #051d3b;
   font-size: 3rem;
+  line-height: 50px;
 }
 .pParceiro{
-  margin: 0rem 0rem 0rem 4rem;
+  margin: 1rem 0rem 0rem 4rem;
   font-size: 1rem;
   text-align: justify;
+  font-weight: 100;
+  font-family: sans-serif;
+  font-size: 18px;
 }
 .main {
   background-color: #e2e2e2;
   height: 100vh;
   display: flex;
   gap: 15rem;
+}
+.btnParceiro{
+  padding: 10px 20px;
+  background-color: #205295;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  margin-left: 4rem;
+  margin-top: 3rem;
+  font-weight: 200;
 }

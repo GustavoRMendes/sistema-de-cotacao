@@ -12,6 +12,7 @@ export default function ParceiroPage () {
           <p className={styles.pParceiro}>
             Acreditamos em parcerias onde grandes oportunidades são <br />geradas por meio de ideias que se conectam. Conheça <br/> nossas parcerias e escolha a melhor para o seu negócio!
           </p>
+          <button className={styles.btnParceiro}>QUERO SER UM PARCEIRO</button>
         </div>
         <div>
           <Image
