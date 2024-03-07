@@ -12,7 +12,7 @@ export default function FormPage () {
         <input type="text" placeholder='Telefone' /> <br/>
         <input type="text" placeholder='E-mail' /> <br/>
         <input type="text" placeholder='Sua melhor senha' /><br/> <br/>
-        <button className='contato'>Comece Agora</button>
+        <button className='contato'>COMECE AGORA</button>
       </form>
       <p className='login'>Já tem uma conta? <Link href='/'>Acessar o sistema</Link></p> 
     </>

@@ -47,13 +47,14 @@ body {
 }
 
 .contato {
-  padding: 10px 12px;
+  padding: 10px 20px;
   cursor: pointer;
   background-color: #008543;
   color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: 2px;
   font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .main {
   background: url("../../public/cotacao2.jpg") no-repeat;
@@ -72,6 +73,7 @@ body {
   margin: auto;
   text-align: center;
   margin: 1rem 0;
+  box-shadow: 1px 0px 1px 0px rgba(0, 0, 0, 0.163);
 }
 
 .login {
