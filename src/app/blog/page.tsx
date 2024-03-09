@@ -24,7 +24,7 @@ export default function BlogPage () {
             <Image style={{ borderRadius: '.1rem' }} src='/calcular.png' alt='' height={300} width={400} />
           </Link>
           <p className={styles.paragraph}>Empreededorismo</p>
-          <h3 className={styles.titleCard}> <a href='https://www.sebrae-sc.com.br/blog/como-calcular-o-preco-de-um-produto' target='_blank'> Como calcular o preço de venda? </a> </h3>
+          <h3 className={styles.titleCard}> <a href='https://www.sebrae-sc.com.br/blog/como-calcular-o-preco-de-um-produto' target='_blank'  className={styles.a}> Como calcular o preço de venda? </a> </h3>
     
         </div>
         <div>
@@ -32,7 +32,7 @@ export default function BlogPage () {
             <Image style={{ borderRadius: '.1rem' }} src='/marketing.png' alt='' height={300} width={400} />
           </Link>
             <p className={styles.paragraph}>Marketing</p>
-            <h3 className={styles.titleCard}> <a href="https://www.mlabs.com.br/blog/marketing-digital-para-ecommerce" target='_blank'>9 Dicas Marketing Digital para sua <br />Loja Virtual</a></h3>
+            <h3 className={styles.titleCard}> <a href="https://www.mlabs.com.br/blog/marketing-digital-para-ecommerce" target='_blank'  className={styles.a}>9 Dicas Marketing Digital para sua <br />Loja Virtual</a></h3>
             
         </div>
         <div>
