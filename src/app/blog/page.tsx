@@ -25,7 +25,7 @@ export default function BlogPage () {
           </Link>
           <p className={styles.paragraph}>Empreededorismo</p>
           <h3 className={styles.titleCard}> <a href='https://www.sebrae-sc.com.br/blog/como-calcular-o-preco-de-um-produto' target='_blank'> Como calcular o preço de venda? </a> </h3>
-          <a href='https://www.sebrae-sc.com.br/blog/como-calcular-o-preco-de-um-produto' className={styles.link} target='_blank'>Ler agora ➡️ </a>
+    
         </div>
         <div>
           <Link href='/'>
@@ -33,7 +33,7 @@ export default function BlogPage () {
           </Link>
             <p className={styles.paragraph}>Marketing</p>
             <h3 className={styles.titleCard}> <a href="https://www.mlabs.com.br/blog/marketing-digital-para-ecommerce" target='_blank'>9 Dicas Marketing Digital para sua <br />Loja Virtual</a></h3>
-            <a href="https://www.mlabs.com.br/blog/marketing-digital-para-ecommerce" className={styles.link} target='_blank' >Ler agora ➡️</a>
+            
         </div>
         <div>
           <Link href='/'>
@@ -41,8 +41,7 @@ export default function BlogPage () {
           </Link>
             <p className={styles.paragraph}>E-commerce</p>
             
-            <h3 className={styles.titleCard}> <a href="https://seller.shopee.com.br/edu/article/13388/como-comeco-a-vender-na-shopee" target='_blank'>Como vender na Shopee: comece <br /> do zero </a></h3>
-            <a href="https://seller.shopee.com.br/edu/article/13388/como-comeco-a-vender-na-shopee" className={styles.link} target='_blank'>Ler agora ➡️</a>
+            <h3 className={styles.titleCard}> <a href="https://seller.shopee.com.br/edu/article/13388/como-comeco-a-vender-na-shopee" target='_blank' className={styles.a}>Como vender na Shopee: comece <br /> do zero </a></h3>
         </div>
       </main>
     
