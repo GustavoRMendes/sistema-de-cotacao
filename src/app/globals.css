@@ -21,20 +21,21 @@ body {
 }
 .h1-main {
   color: rgb(255, 255, 255);
-  font-weight: 300;
-  padding: 2rem 0rem 2rem 2rem; 
-  font-size: 3rem;
-  line-height: 54px;
+  font-weight: 600;
+  padding: 3rem 0rem 2rem 2rem; 
+  font-size: 4rem;
+  line-height: 80px;
+  font-family: 'Poppins';
+  letter-spacing: 3px;
 }
 .p-main {
-  width: 440px;
+  
   padding: 1rem 0rem 2rem 2rem;
-  color: white;
-  text-align: left;
-  line-height: 20px;
+  color: rgb(199, 199, 199);
+  line-height: 24px;
   font-size: 18px;
-  font-weight: 100;
-  font-family: sans-serif;
+  font-weight: 200;
+  font-family: 'Open Sans' ;
 }
 .hr {
   padding: 3px;

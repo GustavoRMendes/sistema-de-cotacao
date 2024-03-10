@@ -5,13 +5,13 @@ export default function MainPage() {
   return (
     <main className="main">
       <h1 className="h1-main">
-        Controle de <br />
-        Cotações Online
+       CONTROLE DE<br />
+       COTAÇÕES ONLINE
       </h1>
       <p className="p-main">
-      O módulo de cotações online permite a tomada de preços simultânea a um número maior de fornecedores, obtendo-se melhores preços e condições de compra.
+      O módulo de cotações online permite <br/> a tomada de preços simultânea a um <br/> número maior de fornecedores,<br/> obtendo-se melhores preços e <br />condições de compra.
       </p>
-      <button style={{marginLeft:'2rem'}} className='contato'>
+      <button style={{margin: '4rem 0rem 0rem 2rem'}} className='contato'>
         EXPERIMENTE GRÁTIS
       </button>
     </main>
